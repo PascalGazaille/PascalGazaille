@@ -1,6 +1,6 @@
 - 👋 Mon nom est Pascal Gazaille
-- 👀 Mes interets ----> Support physique et logiciel de réseaux locaux.
-- 🌱 Je suis actuellement en formation a l'université pour parfaire Python et l'assembleur ARM
+- 👀 Mes interets : Informatique, pilotage, impression 3D
+- 🌱 Je suis actuellement en formation a l'université pour parfaire mes connaissances
 - 💞️ Je suis à la recherche d'un emploi de soutien informatique.
 - 📫 pgazaille68@gmail.com
 
